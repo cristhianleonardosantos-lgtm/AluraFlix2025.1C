@@ -1,5 +1,9 @@
 body {
+
     color: white;
+   background: black;
+  margin: 1px; 
+
  section {
     background: rgb(0,0,207);
     padding-bottom: 80px;
@@ -7,10 +11,9 @@ body {
     display: flex;
     justify-content: center;
 }
-    margin: 1px;
+
 div {
     margin-right: 20px;
-}
 }
 header {
     border-bottom: solid 2px rgb(0, 0, 207);
